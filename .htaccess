@@ -1,0 +1,14 @@
+RewriteEngine On 
+RewriteCond %{SERVER_PORT} 80 
+RewriteRule ^(.*)$ https://www.drmanishratnakar.com/$1 [R,L]
+
+
+Redirect 301 /hair.php https://www.drmanishratnakar.com/laser-hair-removal-thane.php
+Redirect 301 /about.php https://www.drmanishratnakar.com/about-dr-manish-ratnakar.php
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php74” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php74 .php .php7 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit
