@@ -1,5 +1,6 @@
 <!doctype html>
 <html class="no-js" lang="en">
+
 <head>
     <title>Homeopathy Treatment For Allergic Rhinitis | Homeopathy Clinic in Thane | Allergic Cold
     </title>
@@ -8,6 +9,7 @@
 
     <?php include 'includes/head.php'; ?>
 </head>
+
 <body>
     <?php include 'includes/header.php'; ?>
     <div class="mobile-nav">
@@ -92,18 +94,18 @@
                             </div>
                             <div class="service__text-2 mt-50">
 
-                            <h4> Best Treatment for Allergic Rhinitis  in Thane </h4>
+                                <h4> Best Treatment for Allergic Rhinitis in Thane </h4>
 
                                 <h4>Allergies </h4>
                                 <p><b>Homeopathy is based on two principles :</b></p>
-                                <p><i class="fas fa-arrow-alt-circle-right"></i> &nbsp; <b> Homeopathic Treatment  -</b></p>
+                                <p><i class="fas fa-arrow-alt-circle-right"></i> &nbsp; <b> Homeopathic Treatment -</b></p>
                                 <p>Homeopathic remedies are based on the ingredients that cause symptoms in a healthy person. Does your homeopathy look like a headache? They may give you medication (in effective doses) that causes headaches.</p>
                                 <p><i class="fas fa-arrow-alt-circle-right"></i> &nbsp; <b>Minimum Dose Act -</b></p>
                                 <p>Homeopaths believe that low doses are very effective in treating diseases. This does not mean that you get small pieces of active ingredients instead of whole pills. That is, your treatment may contain inert substances (water, alcohol) that may interact with the active ingredient at some point in the production process (before significantly diluting).</p> <br>
                                 <p>If you suffer from seasonal allergies like hay fever, you know how often they can turn a fun, sunny season into a full-blown tragedy. Seasonal allergies affect everyone differently - one may have itched and watery eyes, the other may have a runny nose or sinus headache.</p>
                                 <p><i class="fas fa-arrow-alt-circle-right"></i> &nbsp; <b>Allergic rhinitis -</b></p>
                                 <p>Homeopathic allergy medicines are sold as natural, safe and effective.</p>
-                                <p>Some people with  <a href="https://www.nhsinform.scot/illnesses-and-conditions/ears-nose-and-throat/allergic-rhinitis#:~:text=Allergic%20rhinitis%20is%20inflammation%20of,five%20people%20in%20the%20UK."> allergic rhinitis</a>  may choose to use homeopathic remedies to treat and manage their symptoms due to the potential adverse effects associated with regular allergy medications or the paradoxes associated with specific medical conditions.</p>
+                                <p>Some people with <a href="https://www.nhsinform.scot/illnesses-and-conditions/ears-nose-and-throat/allergic-rhinitis#:~:text=Allergic%20rhinitis%20is%20inflammation%20of,five%20people%20in%20the%20UK."> allergic rhinitis</a> may choose to use homeopathic remedies to treat and manage their symptoms due to the potential adverse effects associated with regular allergy medications or the paradoxes associated with specific medical conditions.</p>
                                 <p><i class="fas fa-arrow-alt-circle-right"></i> &nbsp; <b>Dust Allergy -</b></p>
                                 <p> <a href="https://www.webmd.com/allergies/dust-allergies"> Dust Allergies </a> Dust allergies are the most common type of allergy and are not easy to deal with. It can be triggered by many factors and is not easy to control. Common symptoms of a dust allergy are sneezing, runny nose, watery eyes, coughing, and difficulty breathing. These allergies are mainly caused by dust particles in the air - something you can inevitably do. People with dust allergies take birth control pills to stay healthy.</p>
                                 <!-- <blockquote>
@@ -236,4 +238,5 @@
     <script src="js/jquery.event.move.js"></script>
     <script src="js/main.js"></script>
 </body>
+
 </html>
