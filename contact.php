@@ -1,15 +1,17 @@
 <!doctype html>
 <html class="no-js" lang="">
+
 <head>
- 
-<title>Dr. Manish Ratnakar | Revitalize Clinic - Skin & Hair Specialist in Thane
-</title>
-<meta name="description" content=" Are you looking for the best skin & hair specialist in Thane? Revitalize Clinic provides a one roof solution for all skin and hair-related problems. Expertise in chemical peels, PRP, growth injections, hair PRP, etc.  ">
-<?php include 'includes/head.php'; ?>
+
+    <title>Dr. Manish Ratnakar | Revitalize Clinic - Skin & Hair Specialist in Thane
+    </title>
+    <meta name="description" content=" Are you looking for the best skin & hair specialist in Thane? Revitalize Clinic provides a one roof solution for all skin and hair-related problems. Expertise in chemical peels, PRP, growth injections, hair PRP, etc.  ">
+    <?php include 'includes/head.php'; ?>
 </head>
+
 <body>
-  <?php include 'includes/header.php'; ?>
-<?php include 'includes/head.php'; ?>
+    <?php include 'includes/header.php'; ?>
+    <?php include 'includes/head.php'; ?>
     <div class="mobile-nav">
         <div>
             <button class="mobile-nav-close text-white">
@@ -23,7 +25,7 @@
             </div>
         </nav>
         <div class="responsive-logo">
-           
+
         </div>
         <div class="tab-content" id="nav-tabContent">
             <div class="tab-pane fade show active" id="menu-tab-1" role="tabpanel" aria-labelledby="menu-tab-1-tab">
@@ -38,12 +40,12 @@
                     <div class="contact-list mb-30">
                         <h4>Phone Number</h4>
                         <p>+91 8879588058</p>
-                        
+
                     </div>
                     <div class="contact-list mb-30">
                         <h4>Email Address</h4>
                         <p>info@drmanishratnakar.com</p>
-                       
+
                     </div>
                 </div>
             </div>
@@ -53,8 +55,7 @@
     <!-- info area end -->
     <main>
         <!-- breadcrumb area start -->
-        <div class="breadcrumb-area d-flex align-items-center breadcrumb__height"
-            data-background="img/bg/about/about-bg.jpg" data-overlay="5">
+        <div class="breadcrumb-area d-flex align-items-center breadcrumb__height" data-background="img/bg/about/about-bg.jpg" data-overlay="5">
             <div class="container container-3">
                 <div class="breadcrumb__text mt-150">
                     <div class="row align-items-center">
@@ -138,19 +139,19 @@
                                 </div>
                             </div>
                             <div class="col-xxl-7 col-xl-7 col-lg-6">
-                               <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15069.873115598904!2d72.994773!3d19.2184129!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3f69fc320ecf17b9!2sDr%20Manish%20Ratnakar%20-%20Skin%20%26%20Hair%20Specialist!5e0!3m2!1sen!2sin!4v1643087628399!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15069.873115598904!2d72.994773!3d19.2184129!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3f69fc320ecf17b9!2sDr%20Manish%20Ratnakar%20-%20Skin%20%26%20Hair%20Specialist!5e0!3m2!1sen!2sin!4v1643087628399!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="contact-map">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15066.630319618896!2d72.9821635!3d19.2537495!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8099dc978f4dc56b!2sREVITALISE%20CLINIC!5e0!3m2!1sen!2sin!4v1643088002927!5m2!1sen!2sin"   style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15066.630319618896!2d72.9821635!3d19.2537495!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8099dc978f4dc56b!2sREVITALISE%20CLINIC!5e0!3m2!1sen!2sin!4v1643088002927!5m2!1sen!2sin" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
             </div>
         </div>
         <!-- contact area end -->
     </main>
-<?php include'includes/footer.php';?>
+    <?php include 'includes/footer.php'; ?>
     <!-- JS here -->
     <script src="js/vendor/jquery-3.5.0.min.js"></script>
     <script src="js/popper.min.js"></script>
@@ -172,4 +173,5 @@
     <script src="js/jquery.event.move.js"></script>
     <script src="js/main.js"></script>
 </body>
+
 </html>
