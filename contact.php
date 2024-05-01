@@ -95,7 +95,7 @@
                             <div class="col-xxl-5 col-xl-5 col-lg-6">
                                 <div class="contact__left" data-background="img/bg/contact-bg.png">
                                     <h4>Catch Us Here</h4>
-                                    <p>Get a solid plan anytime & from anywhere</p>
+
                                     <div class="contact__list-2">
                                         <ul>
                                             <li>
