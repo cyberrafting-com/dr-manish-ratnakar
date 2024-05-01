@@ -122,7 +122,7 @@
                                                     <i class="fal fa-map-marker-alt"></i>
                                                 </div>
                                                 <div class="contact__desc">
-                                                    <span> Revitalize Clinic, Lodha Signet, Kolshet Rd, Kolshet Industrial Area, Thane West, Thane, Maharashtra 400604</h6>
+                                                    <span> Revitalize Clinic, 406, Lodha Signet, Kolshet Rd, Kolshet Industrial Area, Thane West, Thane, Maharashtra 400604</h6>
                                                 </div>
 
                                             </li>
