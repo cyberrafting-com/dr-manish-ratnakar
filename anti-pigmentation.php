@@ -1,12 +1,14 @@
 <!doctype html>
 <html class="no-js" lang="en">
+
 <head>
-    <title>Best Skin Pigmentation Treatment in Thane | Doctor for Anti Pigmentation | Laser Treatment 
-</title>
+    <title>Best Skin Pigmentation Treatment in Thane | Doctor for Anti Pigmentation | Laser Treatment
+    </title>
     <meta name="description" content="Get the Anti Pigmentation Laser Treatment to reduce dark spots on the skin. Dr. Manish Ratnakar at Revitalize Clinic in Thane, is the best destination for Face Pigmentation Treatment. ">
     <link rel="canonical" href="https://www.drmanishratnakar.com/anti-pigmentation.php" />
     <?php include 'includes/head.php'; ?>
 </head>
+
 <body>
     <?php include 'includes/header.php'; ?>
     <!-- header area end -->
@@ -24,7 +26,7 @@
             </div>
         </nav>
         <div class="responsive-logo">
-           
+
         </div>
         <div class="tab-content" id="nav-tabContent">
             <div class="tab-pane fade show active" id="menu-tab-1" role="tabpanel" aria-labelledby="menu-tab-1-tab">
@@ -39,19 +41,19 @@
                     <div class="contact-list mb-30">
                         <h4>Phone Number</h4>
                         <p>+91 8879588058</p>
-                        
+
                     </div>
                     <div class="contact-list mb-30">
                         <h4>Email Address</h4>
                         <p>info@drmanishratnakar.com</p>
-                       
+
                     </div>
                 </div>
             </div>
         </div>
     </div>
     <!-- info area start -->
-   
+
     <div class="offcanvas"></div>
     <!-- info area end -->
     <div class="offcanvas"></div>
@@ -94,33 +96,33 @@
                                 <img src="img/skin-service/Anti-Pigmentation.jpg" class="w-100" alt="anti-Pigmentation-treatment">
                             </div>
                             <div class="service__text-2 mt-50">
-                                <h4> Best Dermatologist for  Anti-Pigmentation Treatment in Thane </h4>
-                                <p><i  class="fas fa-arrow-alt-circle-right"></i> &nbsp; <b>Dermatologist Dr. Manish Ratankar can help get rid of hyperpigmentation - here's how.
-                                </b></p>
+                                <h4> Best Dermatologist for Anti-Pigmentation Treatment in Thane </h4>
+                                <p><i class="fas fa-arrow-alt-circle-right"></i> &nbsp; <b>Dermatologist Dr. Manish Ratankar can help get rid of hyperpigmentation - here's how.
+                                    </b></p>
                                 <p>We have been fighting dye and deformation for as long as possible. Sun damage is a major contributor to the genes that cause random skin discoloration due to injuries, infections, medications, and hyperpigmentation.</p>
-                                <p><i  class="fas fa-arrow-alt-circle-right"></i> &nbsp; <b>What is hyperpigmentation ? </b></p>
+                                <p><i class="fas fa-arrow-alt-circle-right"></i> &nbsp; <b>What is hyperpigmentation ? </b></p>
                                 <p>Excess pigment is formed when the pigment that colors the skin produces high levels of melanin. It may appear darker than the area around the skin, blemishes or blemishes.</p>
                                 <p>This is a normal skin condition. It affects people of all skin types. To prevent or prevent <a href="https://www.healthline.com/health/hyperpigmentation#types">hyperpigmentation</a> from gaining more importance.</p>
 
-                                <h4>  Main Causes of Hyperpigmentation</h4> 
-                                <p><i  class="fas fa-arrow-alt-circle-right"></i>&nbsp;The cause of hyperpigmentation depends on the type. The most common causes of hyperpigmentation are:
+                                <h4> Main Causes of Hyperpigmentation</h4>
+                                <p><i class="fas fa-arrow-alt-circle-right"></i>&nbsp;The cause of hyperpigmentation depends on the type. The most common causes of hyperpigmentation are:
                                 </p>
-                              
-                                <p><i  class="fas fa-arrow-alt-circle-right"></i> &nbsp; <b>Sunlight : </b></p>
+
+                                <p><i class="fas fa-arrow-alt-circle-right"></i> &nbsp; <b>Sunlight : </b></p>
                                 <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;Avoid exposure to sunlight. Use a sunscreen with an SPF of 30 or higher to protect the skin and prevent excessive pigmentation from darkening. The body produces more melanin to protect the skin from the sun for a long time. This can cause dark spots or blemishes on the skin called age spots or sun spots.</p>
-                                <p><i  class="fas fa-arrow-alt-circle-right"></i> &nbsp; <b>Skin inflammation: </b></p>
+                                <p><i class="fas fa-arrow-alt-circle-right"></i> &nbsp; <b>Skin inflammation: </b></p>
                                 <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;When a person has vitiligo, the skin becomes darker. These lesions include pimples, eczema, lupus or skin lesions. People with darker skin are more likely to have hyperpigmentation.</p>
                                 <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;When a person has vitiligo, the skin becomes darker. These lesions include pimples, eczema, lupus or skin lesions. People with darker skin are more likely to have hyperpigmentation.</p>
-                                <p><i  class="fas fa-arrow-alt-circle-right"></i> &nbsp; <b>Diagnosis :</b></p> 
+                                <p><i class="fas fa-arrow-alt-circle-right"></i> &nbsp; <b>Diagnosis :</b></p>
                                 <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;People with hyperpigmentation can consult a doctor to determine the type and cause. To determine the cause of hyperpigmentation, doctors may take a small skin sample or biopsy. If necessary, a doctor or dermatologist can develop a treatment plan.</p>
-                      
+
                                 <div class="doctor-box doctor-box__2 mt-100">
                                     <div class="doctor-box__right doctor-box__right-3">
-                                      
+
                                         <div class="doctor__link">
                                             <a href="tel:+91 8879588058" class="generic-btn btn-1 mt-30 mr-10 " tabindex="0"><i class="fal fa-phone pr-5"></i> Make
                                                 A Call</a>
-                                         
+
                                         </div>
                                     </div>
                                 </div>
@@ -132,18 +134,18 @@
                             <div class="service__widget">
                                 <h4>Skin Services</h4>
                                 <?php include 'includes/skin-services.php'; ?>
-                           
-                    
+
+
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-        <!-- service-details area end -->
+            <!-- service-details area end -->
     </main>
     <!-- footer area start -->
     <?php include 'includes/footer.php'; ?>
-    
+
     <!-- footer area end -->
     <!-- JS here -->
     <script src="js/vendor/jquery-3.5.0.min.js"></script>
@@ -166,4 +168,5 @@
     <script src="js/jquery.event.move.js"></script>
     <script src="js/main.js"></script>
 </body>
+
 </html>

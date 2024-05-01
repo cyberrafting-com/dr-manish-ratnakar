@@ -93,8 +93,8 @@
 " class="w-100" alt="treatment-for-tags-and-moles">
                             </div>
                             <div class="service__text-2 mt-50">
-                                <h4>Best Skin Specialist for Laser  Skin Tags and Moles Removal in Thane  </h4>
-                            
+                                <h4>Best Skin Specialist for Laser Skin Tags and Moles Removal in Thane </h4>
+
                                 <p>Are you looking for a way to get rid of skin tags and blemishes? If the answer is yes, then you are in the right place. Moles, skin tags and other benign lesions are common to many. It can sometimes be embarrassing or painful, but it does not pose any serious health risks. Skin tags and moles are very easy to remove.</p>
                                 <p> <b>Skin tag v/s mole?</b></p>
                                 <p><i class="far fa-arrow-alt-circle-right"></i>&nbsp;According to Dr.Manish Ratnakar, <a href="https://www.medicalnewstoday.com/articles/67317">skin tags</a> are technically called acrochordons, which are small, harmless skin growths. Skin tags, benign polyps usually appear on the neck and armpits.</p>
@@ -108,18 +108,18 @@
                                 <p>They are more common in areas where friction develops by rubbing the skin. Skin tags become red or brown with age.They are generally harmless. But depending on their location, leather tags can get stuck in jewellery or clothing. It can cause growth spurts, which can lead to bleeding or infection.</p> <br>
                                 <p> <b>
                                         <i class="fas fa-arrow-alt-circle-right"></i> &nbsp; Methods for removing skin tags and moles :</b></p>
-                                        <p></p>
-<p>One of the traditional but effective ways of removing moles, skin tags, DPNs and warts is ‘excision’ This is the procedure in which the mole, skin tag or wart is cut or removed after inducing local anesthesia to the affected area. Excision of moles, warts and skin tags is carried out by use of an electro cautery process. Sometimes it is referred to as (wrongly so) laser mole removal, but is actually the same as cautery process.
+                                <p></p>
+                                <p>One of the traditional but effective ways of removing moles, skin tags, DPNs and warts is ‘excision’ This is the procedure in which the mole, skin tag or wart is cut or removed after inducing local anesthesia to the affected area. Excision of moles, warts and skin tags is carried out by use of an electro cautery process. Sometimes it is referred to as (wrongly so) laser mole removal, but is actually the same as cautery process.
 
-</p> <br>
+                                </p> <br>
                                 <p><b><i class="fas fa-arrow-alt-circle-right"></i> &nbsp;The most common methods are .</b></p>
                                 <p> <b><i class="far fa-arrow-alt-circle-right"></i>&nbsp; Cryotherapy :</b>Your healthcare provider uses extreme cold to freeze and destroy abnormal tissue during cryotherapy. Your provider will use liquid nitrogen or argon gas to create this severe cold.</p>
                                 <p> <b><i class="far fa-arrow-alt-circle-right"></i>&nbsp; Surgical removal : </b></p>
                                 <p><b>1.EXCISION:</b>With surgical excision, the surgeon cuts the mole, which removes the entire thickness of the skin, then stitches it. In most cases, this surgery leaves an invisible scar. This procedure reduces the chances of the mole recurring.</p>
                                 <p><b>2.SHAVE EXCISION:</b>The procedure is one of the most common ones dermatologists use to remove moles. Using a scalpel blade, the surgeon removed the mole. In most cases, there is no need for stitches, and the procedure usually takes less than a minute. The procedure is also relatively painless. To reduce scars and prevent further infection after mole removal surgery, one must diligently follow the surgeon's instructions once the wound heals.</p>
                                 <p> <b><i class="far fa-arrow-alt-circle-right"></i>&nbsp; Electrosurgery :</b>Skin tag burning with high-frequency electrical energy.</p>
-                                <p> <b><i class="far fa-arrow-alt-circle-right"></i>&nbsp; Laser removal :</b><a href="https://www.drmanishratnakar.com/skin.php">Laser </a> can also be used to remove small, non-cancerous moles that don't protrude above the surface of the skin. To break down moles in the skin, intense bursts of light radiation are used. A mole can usually be removed completely by this method after two or three treatments. 
-                                
+                                <p> <b><i class="far fa-arrow-alt-circle-right"></i>&nbsp; Laser removal :</b><a href="https://www.drmanishratnakar.com/skin.php">Laser </a> can also be used to remove small, non-cancerous moles that don't protrude above the surface of the skin. To break down moles in the skin, intense bursts of light radiation are used. A mole can usually be removed completely by this method after two or three treatments.
+
                                 <div class="doctor-box doctor-box__2 mt-100">
                                     <div class="doctor-box__right doctor-box__right-3">
                                         <div class="doctor__link">

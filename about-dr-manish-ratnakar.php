@@ -93,8 +93,8 @@
                                     hope to those who have lost hope.</p>
                             </div> -->
                             <div class="about__text about__text-4">
-                                <p class="desc">Dr. Manish  Ratnakar is an experienced and renowned hair & skin specialist practicing in Revitalize Clinic for the past 6 years. He has great expertise in skin treatments like chemical peels, IPL laser, face PRP, RF treatment, photo facial, face mesotherapy, microdermabrasion, hair mesotherapy, growth injections,  <a href="https://www.drmanishratnakar.com/hair-prp.php"> Hair PRP</a>, etc. He has also proved his excellence as a medical officer.</p>
-                                    <p></p>
+                                <p class="desc">Dr. Manish Ratnakar is an experienced and renowned hair & skin specialist practicing in Revitalize Clinic for the past 6 years. He has great expertise in skin treatments like chemical peels, IPL laser, face PRP, RF treatment, photo facial, face mesotherapy, microdermabrasion, hair mesotherapy, growth injections, <a href="https://www.drmanishratnakar.com/hair-prp.php"> Hair PRP</a>, etc. He has also proved his excellence as a medical officer.</p>
+                                <p></p>
                                 <p class="desc">Dr. Ratnakar completed his BHMS from Kakasaheb Mhaske Homeopathic Medical College, Ahmednagar, in 2008. In 2011 he got his MD in Homeopathy from M.L. Dhawale Medical Homeopathic Institute, Palghar. He also completed his certification course in cosmetology from the Institute of Cosmetology and laser science, Mumbai, in 2018.</p>
                             </div>
                         </div>
@@ -105,7 +105,7 @@
         <!-- about area end -->
         <!-- service area start -->
         <div class="service-area service-area-2 service-area-4 gray-bg pt-105  ">
-                       <div class="faq-area mt-120 mb-100">
+            <div class="faq-area mt-120 mb-100">
                 <div class="container">
                     <div class="row">
                         <div class="col-xxl-12 col-xl-12 col-lg-7">

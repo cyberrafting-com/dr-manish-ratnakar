@@ -8,7 +8,7 @@
 
     <meta name="description" content="Erase wrinkles with  Dr. Manish Madhukar Ratnakar's Anti-Wrinkle Botox treatment at Revitalize the Best Hair & Skin Clinic in Thane. Rediscover smooth, youthful skin.">
     <?php include 'includes/head.php'; ?>
-</head>  
+</head>
 
 <body>
     <?php include 'includes/header.php'; ?>
@@ -91,53 +91,53 @@
                                 <img src="img/skin-service/anti-wrinkle-botox-treatment.png" class="w-90!important" style="height: 500px; width:90%;" alt="anti wrinkle botox treatment">
                             </div>
                             <div class="service__text-2 mt-50">
-                            <h2>What is Anti-Wrinkle Botox? </h2>
-                            <p>Anti-Wrinkle Botox, also known as Botulinum Toxin, is a non-invasive cosmetic treatment designed to reduce the appearance of wrinkles and fine lines. It's a trusted and widely used solution to regain a youthful, smoother complexion.
-</p>
-                            <h2>Why Choose Anti-Wrinkle Botox?</h2>
-                            <p>At Revitalize Clinic, we understand the importance of feeling confident in your skin. Here's why you should consider Anti-Wrinkle Botox with us:
-</p>
-                            <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;<b>Expert Precision – </b> Our experienced team specializes in administering Botox, ensuring precision and safety in every treatment.
-</p>
-                            <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;<b>Personalized Approach – </b> We tailor each treatment to your unique facial structure and desired outcomes, ensuring a natural, refreshed look.
-</p>
-                            <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;<b>Non-Invasive – </b> Anti-Wrinkle Botox offers remarkable results without surgery or downtime, making it a convenient choice for busy individuals.
-</p>
-                            <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;<b>Proven Effectiveness – </b> Proven Effectiveness</p>
-                            
-                            <h2>How Does Anti-Wrinkle Botox Work? </h2>
-                            <p>Anti-Wrinkle Botox works by temporarily relaxing the muscles responsible for wrinkle formation. It does this by blocking nerve signals to the treated muscles, reducing their ability to contract. This results in smoother, more youthful-looking skin.
-</p>
-                            <h2>Here's what you can expect:</h2>
-                            <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;<b>Quick Procedure – </b> The treatment is swift, typically taking only a few minutes.
-</p>
-                            <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;<b>Minimal Discomfort – </b> Discomfort is minimal, and most clients find it tolerable.</p>
-                            <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;<b>Gradual Improvement – </b> Results become visible within a few days and continue to improve over the following weeks.
-</p>
-                            <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;<b>No Downtime – </b> Return to your regular activities immediately after treatment.
-</p>
-                            
-                            <p><b>Benefits of Anti-Wrinkle Botox at Revitalize Clinic</b> Choosing Anti-Wrinkle Botox at Revitalize Clinic offers an array of advantages:
-</p>
-                            <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;<b>Youthful Appearance – </b> Enjoy a smoother, more youthful complexion.
-</p>
-                            <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;<b>Personalized Results – </b> Tailored treatments ensure a natural look that enhances your unique beauty.
-</p>
-                            <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;<b>Non-Invasive – </b> Achieve your desired look without the need for surgery or extended recovery.
-</p>
-                            <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;<b>Minimal Discomfort – </b> Experience minimal discomfort during and after the procedure.
-</p>
-                            <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;<b>Quick and Convenient – </b> Botox fits seamlessly into your busy schedule with minimal disruption.
-</p>
+                                <h2>What is Anti-Wrinkle Botox? </h2>
+                                <p>Anti-Wrinkle Botox, also known as Botulinum Toxin, is a non-invasive cosmetic treatment designed to reduce the appearance of wrinkles and fine lines. It's a trusted and widely used solution to regain a youthful, smoother complexion.
+                                </p>
+                                <h2>Why Choose Anti-Wrinkle Botox?</h2>
+                                <p>At Revitalize Clinic, we understand the importance of feeling confident in your skin. Here's why you should consider Anti-Wrinkle Botox with us:
+                                </p>
+                                <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;<b>Expert Precision – </b> Our experienced team specializes in administering Botox, ensuring precision and safety in every treatment.
+                                </p>
+                                <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;<b>Personalized Approach – </b> We tailor each treatment to your unique facial structure and desired outcomes, ensuring a natural, refreshed look.
+                                </p>
+                                <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;<b>Non-Invasive – </b> Anti-Wrinkle Botox offers remarkable results without surgery or downtime, making it a convenient choice for busy individuals.
+                                </p>
+                                <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;<b>Proven Effectiveness – </b> Proven Effectiveness</p>
+
+                                <h2>How Does Anti-Wrinkle Botox Work? </h2>
+                                <p>Anti-Wrinkle Botox works by temporarily relaxing the muscles responsible for wrinkle formation. It does this by blocking nerve signals to the treated muscles, reducing their ability to contract. This results in smoother, more youthful-looking skin.
+                                </p>
+                                <h2>Here's what you can expect:</h2>
+                                <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;<b>Quick Procedure – </b> The treatment is swift, typically taking only a few minutes.
+                                </p>
+                                <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;<b>Minimal Discomfort – </b> Discomfort is minimal, and most clients find it tolerable.</p>
+                                <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;<b>Gradual Improvement – </b> Results become visible within a few days and continue to improve over the following weeks.
+                                </p>
+                                <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;<b>No Downtime – </b> Return to your regular activities immediately after treatment.
+                                </p>
+
+                                <p><b>Benefits of Anti-Wrinkle Botox at Revitalize Clinic</b> Choosing Anti-Wrinkle Botox at Revitalize Clinic offers an array of advantages:
+                                </p>
+                                <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;<b>Youthful Appearance – </b> Enjoy a smoother, more youthful complexion.
+                                </p>
+                                <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;<b>Personalized Results – </b> Tailored treatments ensure a natural look that enhances your unique beauty.
+                                </p>
+                                <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;<b>Non-Invasive – </b> Achieve your desired look without the need for surgery or extended recovery.
+                                </p>
+                                <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;<b>Minimal Discomfort – </b> Experience minimal discomfort during and after the procedure.
+                                </p>
+                                <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;<b>Quick and Convenient – </b> Botox fits seamlessly into your busy schedule with minimal disruption.
+                                </p>
 
 
-<p>Revitalize Clinic is committed to helping you look and feel your best. Schedule a consultation today and take the first step towards a more youthful, confident you. Rediscover your timeless beauty with Anti-Wrinkle Botox at Revitalize Clinic.
+                                <p>Revitalize Clinic is committed to helping you look and feel your best. Schedule a consultation today and take the first step towards a more youthful, confident you. Rediscover your timeless beauty with Anti-Wrinkle Botox at Revitalize Clinic.
 
-</p>
+                                </p>
 
 
-                            
-                          
+
+
                                 <div class="doctor-box doctor-box__2 mt-100">
                                     <div class="doctor-box__right doctor-box__right-3">
 
@@ -169,25 +169,7 @@
 
     <!-- footer area end -->
     <!-- JS here -->
-    <script src="js/vendor/jquery-3.5.0.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/isotope.pkgd.min.js"></script>
-    <script src="js/one-page-nav-min.js"></script>
-    <script src="js/slick.min.js"></script>
-    <script src="js/jquery.meanmenu.min.js"></script>
-    <script src="js/ajax-form.js"></script>
-    <script src="js/wow.min.js"></script>
-    <script src="js/jquery.scrollUp.min.js"></script>
-    <script src="js/jquery.nice-select.min.js"></script>
-    <script src="js/metisMenu.min.js"></script>
-    <script src="js/imagesloaded.pkgd.min.js"></script>
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <script src="js/plugins.js"></script>
-    <script src="js/jquery.twentytwenty.js"></script>
-    <script src="js/jquery.event.move.js"></script>
-    <script src="js/main.js"></script>
+
 </body>
 
 </html>

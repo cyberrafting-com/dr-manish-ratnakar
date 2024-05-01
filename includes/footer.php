@@ -121,7 +121,7 @@
 
         <div class="footer__copyright">
 
-            <p>Copyright © 2022. All Rights Reserved by Dr. Manish Ratnakar</p>
+            <p>Copyright © 2024. All Rights Reserved by Dr. Manish Ratnakar</p>
 
         </div>
 
@@ -144,19 +144,7 @@
 </div>
 
 
-<!-- <div class="navbar-fixed-bottom d-lg-none d-xl-none d-md-none d-sm-none row "
-    style="text-align: center;position: fixed;right: 0;bottom: 0;left: 0;padding: 4px;background-color:lightgray;text-align: center;z-index:29">
 
-    <div class="d-lg-none d-xl-none d-md-none d-sm-none col-6" style=" background-color: #018f99;padding:8px;  ">
-        <a href="tel:+91 8879588058" style="color:white;">
-            <img src="img/icon/phone-icon.png" style="width: 32px;" alt="Call"> Call Us</a>
-    </div>
-    <div class="d-lg-none d-xl-none d-md-none d-sm-none col-6" style="background-color:#10ba17;padding:8px;  ">
-        <a href="https://api.whatsapp.com/send?phone= +91 8879588058 &amp;text=Hi,%20I%20want%20to%20Book%20an%20Appointment.%20"
-            style="color:white;">
-            <img src="img/icon/whatsapp.png" style="width: 32px;" alt="Call"> WhatsApp</a>
-    </div>
-</div> -->
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous">
 </script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous">

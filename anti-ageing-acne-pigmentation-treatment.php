@@ -3,12 +3,11 @@
 
 <head>
 
-    <title>Best Reduce for Anti-Ageing, Acne, and Pigmentation  Treatment Clinic for Man and Woman in Thane| Dr Manish Ratnakar</title>
+    <title>Best Reduce for Anti-Ageing, Acne, and Pigmentation Treatment Clinic for Man and Woman in Thane| Dr Manish Ratnakar</title>
 
 
     <link rel="canonical" href="https://www.drmanishratnakar.com/anti-ageing-acne-and-pigmentation-treatment.php" />
-    <meta name="description"
-        content=" No need to give up on Reduce for Anti-Ageing, Acne, and Pigmentation issues. Visit India's best Dermatology & Reduce for Anti-Ageing, Acne, and Pigmentation Care Clinic in Thane. Dr. Manish Ratnakar ,Best Skin Specialist in Mumbai for Reduce for Anti-Ageing, Acne, and Pigmentation offers the effective treatment for Reduce for Anti-Ageing, Acne, and Pigmentation. ">
+    <meta name="description" content=" No need to give up on Reduce for Anti-Ageing, Acne, and Pigmentation issues. Visit India's best Dermatology & Reduce for Anti-Ageing, Acne, and Pigmentation Care Clinic in Thane. Dr. Manish Ratnakar ,Best Skin Specialist in Mumbai for Reduce for Anti-Ageing, Acne, and Pigmentation offers the effective treatment for Reduce for Anti-Ageing, Acne, and Pigmentation. ">
     <?php include 'includes/head.php'; ?>
 </head>
 
@@ -26,10 +25,8 @@
         </div>
         <nav>
             <div class="nav" id="nav-tab" role="tablist">
-                <a class="nav-link active" id="menu-tab-1-tab" data-bs-toggle="tab" href="#menu-tab-1" role="tab"
-                    aria-controls="menu-tab-1" aria-selected="true">Menu</a>
-                <a class="nav-link" id="menu-tab-2-tab" data-bs-toggle="tab" href="#menu-tab-2" role="tab"
-                    aria-controls="menu-tab-2" aria-selected="false">Info</a>
+                <a class="nav-link active" id="menu-tab-1-tab" data-bs-toggle="tab" href="#menu-tab-1" role="tab" aria-controls="menu-tab-1" aria-selected="true">Menu</a>
+                <a class="nav-link" id="menu-tab-2-tab" data-bs-toggle="tab" href="#menu-tab-2" role="tab" aria-controls="menu-tab-2" aria-selected="false">Info</a>
             </div>
         </nav>
         <div class="responsive-logo">
@@ -67,8 +64,7 @@
     <!-- info area end -->
     <main>
         <!-- breadcrumb area start -->
-        <div class="breadcrumb-area d-flex align-items-center breadcrumb__height"
-            data-background="img/bg/about/about-bg.jpg" data-overlay="5">
+        <div class="breadcrumb-area d-flex align-items-center breadcrumb__height" data-background="img/bg/about/about-bg.jpg" data-overlay="5">
             <div class="container container-3">
                 <div class="breadcrumb__text mt-150">
                     <div class="row align-items-center">
@@ -76,7 +72,7 @@
                             <div class="breadcrumb__left">
                                 <div class="breadcrumb__title">
                                     <!-- <span>Welcome to our company</span> -->
-                                    <h2>  Anti-Ageing, Acne, and Pigmentation Treatment
+                                    <h2> Anti-Ageing, Acne, and Pigmentation Treatment
                                     </h2>
                                 </div>
                             </div>
@@ -94,8 +90,7 @@
                     <div class="col-xxl-8 col-xl-8 col-lg-7">
                         <div class="service__left">
                             <div class="service__thumb">
-                                <img src="img/skin-service/anti-ageing-acne-pigmentation-treatment.jpg"
-                                    class="w-90!important" style="height: 500px; width:90%;" alt="acne-treatment">
+                                <img src="img/skin-service/anti-ageing-acne-pigmentation-treatment.jpg" class="w-90!important" style="height: 500px; width:90%;" alt="acne-treatment">
                             </div>
                             <div class="service__text-2 mt-50">
                                 <h4> <b>Best Anti-Ageing, Acne, and Pigmentation Treatment in Thane</b> </h4>
@@ -137,14 +132,14 @@
 
                                 <p> <i class="fas fa-arrow-alt-circle-right"></i> &nbsp; <b>How Anti-Ageing, Acne, and Pigmentation Treatment Works?
                                     </b> </p>
-                              
-</p>
+
+                                </p>
                                 <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;We create personalized treatment plans combining a range of techniques, including Botox, dermal fillers, chemical peels, laser therapy, and topical agents, to target each skin concern. </p>
                                 <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;By addressing multiple skin issues simultaneously, our treatment delivers comprehensive results, leaving your skin looking smoother, clearer, and more youthful.</p>
                                 <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;Our goal is to provide long-lasting improvements in skin texture, tone, and appearance, allowing you to enjoy radiant and healthy skin for the long term.</p>
-                                 
-                                   
-                                 
+
+
+
                                 <br>
                                 <p> <i class="fas fa-arrow-alt-circle-right"></i> &nbsp; <b>Benefits of Anti-Ageing, Acne, and Pigmentation Treatment: </b>
                                 </p>
@@ -153,7 +148,7 @@
                                 <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;Chemical peels and laser therapy help to reduce acne breakouts, fade acne scars, and even out skin tone, resulting in a clearer complexion.</p>
                                 <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;Laser therapy and topical agents target excess melanin production, reducing the appearance of dark spots, sun damage, and pigmentation issue.</p>
                                 <p><i class="far fa-arrow-alt-circle-right"></i> &nbsp;Exfoliating treatments like chemical peels and microdermabrasion enhance skin texture, leaving it smoother and more radiant.</P>
-                              
+
                                 <br>
                                 <p> <i class="fas fa-arrow-alt-circle-right"></i> &nbsp; <b>What to Expect During the
                                         Treatment: </b> </p>
@@ -193,8 +188,7 @@
                                     <div class="doctor-box__right doctor-box__right-3">
 
                                         <div class="doctor__link">
-                                            <a href="tel:+91 8879588058" class="generic-btn btn-1 mt-30 mr-10 "
-                                                tabindex="0"><i class="fal fa-phone pr-5"></i> Make
+                                            <a href="tel:+91 8879588058" class="generic-btn btn-1 mt-30 mr-10 " tabindex="0"><i class="fal fa-phone pr-5"></i> Make
                                                 A Call</a>
                                         </div>
                                     </div>
@@ -219,7 +213,7 @@
     <div class="price-area price-area__4 gray-bg pt-110 pb-20 mt-120">
         <div class="container">
             <div class="generic-title text-center">
-                
+
                 <h4>Before After Result</h4>
             </div>
             <div class="price__wrapper mt-30">
@@ -234,9 +228,7 @@
                     <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
                         <div class="pricing__box pricing__box-4 mb-30 pricing__box-4">
                             <div class="pricing__img pricing__img-4">
-                                <img src="img\skin-service\pigmentaion.jpg"
-                                    class="acne-scar-treatment-before-after" alt="acne-scar-treatment-before-after"
-                                    style="width:100%;">
+                                <img src="img\skin-service\pigmentaion.jpg" class="acne-scar-treatment-before-after" alt="acne-scar-treatment-before-after" style="width:100%;">
                             </div>
 
                         </div>

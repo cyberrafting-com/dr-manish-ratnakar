@@ -120,7 +120,7 @@
                                 <p> <i class="far fa-arrow-alt-circle-right"></i> &nbsp;IPL (Intense Pulsed Light)</p>
                                 <p> <i class="far fa-arrow-alt-circle-right"></i> &nbsp;Leather filler</p>
                                 <p> <i class="far fa-arrow-alt-circle-right"></i> &nbsp;Botulinum toxin type A (Botox) treatment</p> <br>
-                                <p><i class="fas fa-arrow-alt-circle-right"></i> &nbsp; <b>  Benefits of  Facial Skin Rejuvenation ?</b></p>
+                                <p><i class="fas fa-arrow-alt-circle-right"></i> &nbsp; <b> Benefits of Facial Skin Rejuvenation ?</b></p>
                                 <p> <i class="far fa-arrow-alt-circle-right"></i> &nbsp;Many benefits of facial skin Rejuvenation such as detoxification and moisturizing your skin.</p>
                                 <p> <i class="far fa-arrow-alt-circle-right"></i> &nbsp;Opening the pores of the skin helps to treat acne, cleanse it and reduce impurities.</p>
                                 <p> <i class="far fa-arrow-alt-circle-right"></i> &nbsp;Skin treatments can provide nutrients that help the skin heal, fight the aging process, and tighten the skin.</p>
