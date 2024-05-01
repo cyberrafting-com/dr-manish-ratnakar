@@ -41,8 +41,12 @@ jobs:
 
         script: |
         
-          cd /home/thespinecare/public_html
+          cd /home/drmanishratnakar/public_html
      
           git checkout -f
 
           git pull origin main -f
+
+
+          
+
