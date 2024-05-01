@@ -105,6 +105,7 @@
                                                 <div class="contact__desc">
                                                     <span>Phone Number</span>
                                                     <h6> +91 8879588058</h6>
+                                                    <h6> +91 8879588057</h6>
                                                 </div>
                                             </li>
                                             <li>
