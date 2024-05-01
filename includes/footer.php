@@ -8,31 +8,7 @@
 
         <diFv class="row">
 
-            <!-- <div class="col-xl col-lg col-md mb-4 mb-md-0">
 
-                        <div class="icon-footer">
-
-                            <a href=""><img src="img/logo/Revitalize Clinic manish ratnakar.jpg" alt="Revitalize-logo"></a>
-
-                        </div>
-
-                    </div> -->
-
-            <!-- <div class="col-xl col-lg col-md">
-
-                        <div class="social__icon text-md-end text-start">
-
-                            <a href="#"><i class="fab fa-facebook-f"></i></a>
-
-                            <a href="#"><i class="fab fa-twitter"></i></a>
-
-                            <a href="#"><i class="fab fa-youtube"></i></a>
-
-                            <a href="#"><i class="fab fa-linkedin"></i></a>
-
-                        </div>
-
-                    </div> -->
 
     </div>
 
@@ -82,15 +58,13 @@
                                     <li> <a href="tel:+918879588058"><i class="fa-solid fa-phone"></i> <span><b>Phone: </b> +918879588058</span></a></li>
 
                                     <li><a href="mailto:info@drmanishratnakar.com"><i class="fal fa-envelope"></i> <span><b>Email: </b>
-                                            info@drmanishratnakar.com</span></a>
+                                                info@drmanishratnakar.com</span></a>
 
                                     </li>
 
-                                    <li><i class="fas fa-compass"></i> <span><b>Address: </b> Phase 2, Palacia,
-                                            Revitalize Clinic, 16, Ground, Kawesar Road, </span> <span
-                                            class="imgtext">opposite Swastik Regalia, Waghbil, Thane, Maharashtra
-                                            400607</span>
-
+                                    <li><i class="fas fa-compass"></i> <span><b>Address: </b> 406, Lodha Signet,
+                                    Kolshet Rd, Kolshet Industrial Area, Thane West, Thane, Maharashtra 400604 </span> 
+                                            
                                     </li>
 
                                 </ul>
@@ -156,16 +130,14 @@
 </footer>
 
 <!-- footer area end -->
-<div class="navbar-fixed-bottom d-lg-none d-xl-none d-md-none d-sm-none row "
-    style="text-align: center;position: fixed;right: 0;bottom: 0;left: 0;padding: 4px;background: lightgray;text-align: center;z-index:29">
+<div class="navbar-fixed-bottom d-lg-none d-xl-none d-md-none d-sm-none row " style="text-align: center;position: fixed;right: 0;bottom: 0;left: 0;padding: 4px;background: lightgray;text-align: center;z-index:29">
 
     <div class="d-lg-none d-xl-none d-md-none d-sm-none col-6" style="background-color:#018f99; padding:8px;  ">
         <a href="tel:+91 8879588058" style="color:#fff; font-size: 18px; text-decoration: none;">
             <img src="img/icon/phone-icon.png" style="width: 32px; text-decoration: none;" alt="Call"> Call Us</a>
     </div>
     <div class="d-lg-none d-xl-none d-md-none d-sm-none col-6" style="background-color:#10ba17; padding:8px;  ">
-        <a href="https://api.whatsapp.com/send?phone=+91 8879588058 &amp;text=Hi,%20I%20want%20to%20Book%20an%20Appointment.%20"
-            style="color:#fff; font-size: 18px; text-decoration: none;">
+        <a href="https://api.whatsapp.com/send?phone=+91 8879588058 &amp;text=Hi,%20I%20want%20to%20Book%20an%20Appointment.%20" style="color:#fff; font-size: 18px; text-decoration: none;">
             <img src="img/icon/whatsapp.png" style="width: 32px;  " alt="Call"> WhatsApp</a>
     </div>
 
@@ -185,14 +157,11 @@
             <img src="img/icon/whatsapp.png" style="width: 32px;" alt="Call"> WhatsApp</a>
     </div>
 </div> -->
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
-    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous">
 </script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js"
-    integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous">
 </script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"
-    integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous">
 </script>
 <script src="js/vendor/jquery-3.5.0.min.js"></script>
 <script src="js/popper.min.js"></script>
