@@ -40,6 +40,10 @@
                     <div class="contact-list mb-30">
                         <h4>Phone Number</h4>
                         <p>+91 8879588058</p>
+                        <p>+91 8879588057</p>
+
+
+                       
 
                     </div>
                     <div class="contact-list mb-30">
@@ -115,6 +119,9 @@
                                             <li>
                                                 <div class="contact__icon">
                                                     <i class="fal fa-map-marker-alt"></i>
+                                                </div>
+                                                <div class="contact__desc">
+                                                    <span> Revitalize Clinic, Lodha Signet, Kolshet Rd, Kolshet Industrial Area, Thane West, Thane, Maharashtra 400604</h6>
                                                 </div>
                                                 <div class="contact__desc">
                                                     <span> Revitalize Clinic, Shop No. 16, Ground Floor, Phase 2, Palacia, Kawesar Road, opposite Swastik Regalia, Waghbil, Thane, Maharashtra 400607</h6>
